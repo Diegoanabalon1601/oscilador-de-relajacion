@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Intel Core i3\Desktop\Nueva carpeta (2)\Oscilador de relajación con LM741.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Dec 07 10:32:01 2018
+Total elapsed time: 0.473 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 52138
+traniter = 52127
+tranpoints = 15141
+accept = 10495
+rejected = 4646
+matrix size = 37
+fillins = 45
+solver = Normal
+Matrix Compiler1: 4.03 KB object code size  1.7/1.0/[0.5]
+Matrix Compiler2: 3.82 KB object code size  0.8/1.2/[0.5]
+
